@@ -1,0 +1,45 @@
+.form-control{
+    box-sizing:border-box;
+    width:100%;
+    padding:20px;
+    box-shadow:0 0 5px 4px rgb(199, 207, 207);
+    border-radius:30px;
+    font-family:inherit;
+    font-size: inherit;
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+    text-align: center;
+    margin-bottom: 3px;
+
+}
+.body{
+    background-color: rgb(59, 58, 58);
+    color: white;
+}
+.input-container {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  .inline{
+    max-width:400px;
+    margin:auto;
+}
+.input-icons i {
+    position: absolute;
+}
+  
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+}
+  
+.icon {
+    padding: 10px;
+    min-width: 40px;
+}
+  
+
